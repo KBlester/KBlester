@@ -1,5 +1,5 @@
 - 👋 Olá, sou @KBlester (Kaue Blester)
-- 👀 Estou interessado em criar plugins na linguagem javascript. (minecraft)
+- 👀 Estou interessado em criar plugins na linguagem java. (minecraft)
 - 🌱 Atualmente estou aprendendo java, nodejs, lua.
 - 💞️ Estou procurando colaborar na criação de plugins liberando-os de graça. (para testes)
 - 📫 Como chegar até mim ... mantenha contato comigo pelo discord.
